@@ -15,3 +15,6 @@ little tutorial about telegram web apps - how to make bot and web app to check m
 [бот-пример](https://t.me/lilcheckbot)
 
 [страница автора](https://mihailgok.ru)
+
+
+https://webappcontent.telegram.org/cafe?user_id=1&user_hash=1
